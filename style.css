@@ -1,0 +1,71 @@
+.background1{
+    background-color: #364F6B;
+}
+
+
+h3{
+color: #3FC1C9;
+text-align: center;
+text-align: left;
+}
+
+h1,h2,h3{
+color: #3FC1C9;
+text-align: center;
+}
+
+h1,h3{
+    font-family: "sedan", sans-serif;
+    font-size: 4em;
+
+}
+span,hr{
+    color: #FC5185;
+}
+img{
+    color:#F5F5F5;
+    border: solid 5px #F5F5F5;
+    border-radius: 50%;
+    margin: 0;
+    padding: 0;
+}
+
+
+p,li{
+    text-align: left;
+    font-family: "Playfair Display", serif;
+    color: #F5F5F5;
+    font-size: 1em;
+}
+
+.skill, .ProjectDes{
+    color: #364F6B;
+}
+.projects{
+    border-radius: 0;
+}
+
+.contact{
+    background-color: #364F6B;
+}
+
+.contactbutton{
+    color: #364F6B;
+    font-family:  "sedan", sans-serif;
+}
+
+{
+    border-radius: 2%;
+    border-color: #364F6B;
+    background-color:#364F6B;
+}
+
+.skillstyle, .projectal{
+    border: 3px solid #364F6B;
+    border-radius:10px;
+    background-color: #F5F5F5;
+}
+
+.projectal{
+   background-color: #364F6B;
+}
