@@ -54,11 +54,6 @@ p,li{
     font-family:  "sedan", sans-serif;
 }
 
-{
-    border-radius: 2%;
-    border-color: #364F6B;
-    background-color:#364F6B;
-}
 
 .skillstyle, .projectal{
     border: 3px solid #364F6B;
@@ -69,3 +64,5 @@ p,li{
 .projectal{
    background-color: #364F6B;
 }
+
+
